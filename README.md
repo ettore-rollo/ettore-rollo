@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @ettore-rollo
-- 👀 I’m interested in everything about tech
-- 🌱 I’m currently learning Azure and AWS
-- 💞️ I’m looking to collaborate on any project for Linux
-- 😄 Pronouns: He/Him
+## **Ettore Rollo**
 
-<!---
-ettore-rollo/ettore-rollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Developer**
+
+### **About Me**
+
+Passionate full-stack developer with 3+ years of experience in building robust and scalable web applications. Proficient in both front-end and back-end development, with a strong foundation in Java and JavaScript.
+
+### **Skills**
+
+**Backend:**
+* Java (Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate/JPA)
+* RESTful APIs
+* SQL (Oracle, MySQL, DB2)
+* NoSQL (MongoDB)
+* Messaging (RabbitMQ)
+* Testing (JUnit, Mockito)
+
+**Frontend:**
+* Angular
+* React
+* Vue.js
+* Bootstrap
+* HTML5
+* CSS3
+
+**Tools & Technologies:**
+* Git (GitFlow)
+* Maven
+* Gradle
+* Docker
+* CI/CD (Jenkins, Bamboo)
+* Agile methodologies
+
+### **Looking for new opportunities!**
+
+I'm always eager to learn new technologies and collaborate on exciting projects. Feel free to connect with me for any opportunities.
+
+### **Connect with me**
+
+* **LinkedIn:** https://www.linkedin.com/in/ettorealessandro/
